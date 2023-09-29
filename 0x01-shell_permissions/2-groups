@@ -1,2 +1,2 @@
  #!/bin/bash
-echo "$USER
+chmod +x print_groups.sh
