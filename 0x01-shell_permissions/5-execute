@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x "$hello_path"
+chmod u+x hello
